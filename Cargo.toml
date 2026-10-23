@@ -1,0 +1,3 @@
+[workspace]
+members = ["tools/warrant-ids"]
+resolver = "2"
